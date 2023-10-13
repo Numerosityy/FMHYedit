@@ -711,6 +711,7 @@
 * 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash), [Rek's Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-flash-game-collection) or [ClassicGames.rar](https://github.com/nbats/FMHYedit/blob/main/base64.md#classicgamesrar) (pw:paluch) - Flash Game Archives 
 * ↪️ **[Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools)**
 * ⭐ **[How-to Play Flash Games](https://rentry.co/oc4wc)** - Browser Flash Game Tutorial
+* [Flash Museum](https://flashmuseum.org/) - Browser Based Flash Game/Animation Archive
 * [Flash by Night](http://flashbynight.com/) - Browser Games
 * [FlashGamesArchive](http://www.flashgamearchive.com/playable/) - Browser Games
 * [Flash Arch](https://flasharch.com/en) - Browser Games
